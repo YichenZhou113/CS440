@@ -1,0 +1,3 @@
+Bo Wang, bowang12: Discussing and writing solve.py
+Yichen Zhou, zhou113: Discussing and writing solve.py, writing report
+Weili Liu, weilil2: Discussing and writing solve.py, writing report
